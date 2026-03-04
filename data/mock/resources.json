@@ -1,0 +1,176 @@
+{
+  "data": {
+    "nodeResources": {
+      "__typename": "NodeResourceConnection",
+      "nodes": [
+        {
+          "__typename": "NodeResource",
+          "id": "resource-tax-tips",
+          "title": "Year-End Tax Planning Strategies for 2026",
+          "path": "/resources/year-end-tax-planning-strategies",
+          "body": {
+            "processed": "<p>The last quarter of the year is your final opportunity to take action that can meaningfully reduce your tax liability. Here are the most impactful strategies to consider before December 31.</p><h2>Maximize Retirement Contributions</h2><p>Contributing the maximum to tax-advantaged retirement accounts is one of the most effective tax-saving strategies available. For 2026, contribution limits are:</p><ul><li><strong>401(k):</strong> $23,500 ($31,000 if age 50 or older)</li><li><strong>Traditional or Roth IRA:</strong> $7,000 ($8,000 if age 50 or older)</li><li><strong>SEP-IRA:</strong> Up to 25% of net self-employment income, maximum $69,000</li><li><strong>Solo 401(k):</strong> Up to $69,000 ($76,500 if age 50 or older)</li></ul><h2>Harvest Tax Losses</h2><p>Review your investment portfolio for positions with unrealized losses. Selling these investments before year-end allows you to offset capital gains dollar for dollar, and up to $3,000 in ordinary income. Be aware of the wash-sale rule, which prohibits repurchasing substantially identical securities within 30 days.</p><h2>Bunch Charitable Donations</h2><p>If your itemized deductions are close to the standard deduction threshold, consider 'bunching' two years' worth of charitable contributions into a single year to exceed the standard deduction. Donor-advised funds make this strategy especially convenient.</p><h2>Review Business Expenses</h2><p>If you own a business, consider accelerating deductible expenses into the current year. Purchase needed equipment, pay January invoices early, or prepay deductible expenses like insurance premiums or professional subscriptions.</p><h2>Plan for Required Minimum Distributions</h2><p>If you're age 73 or older, ensure you've taken your required minimum distribution (RMD) from traditional IRAs and employer retirement plans. The penalty for missing an RMD is 25% of the amount not withdrawn.</p>",
+            "summary": "The last quarter of the year is your final opportunity to take action that can meaningfully reduce your tax liability. Here are the most impactful strategies to consider before December 31.Maximize Re"
+          },
+          "image": {
+            "url": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800&q=80",
+            "alt": "Financial planning documents and calendar showing year-end",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          },
+          "summary": {
+            "processed": "<p>Essential tax-saving moves to make before December 31, including retirement contributions, loss harvesting, and charitable strategies.</p>",
+            "summary": "Essential tax-saving moves to make before December 31, including retirement contributions, loss harvesting, and charitable strategies."
+          },
+          "resourceTopic": [
+            {
+              "id": "Tax Planning",
+              "name": "Tax Planning"
+            },
+            {
+              "id": "Personal Finance",
+              "name": "Personal Finance"
+            }
+          ],
+          "authorName": "Elena Ramirez, CPA",
+          "publishedDate": {
+            "timestamp": 1771135200
+          },
+          "created": {
+            "timestamp": 1760000000
+          }
+        },
+        {
+          "__typename": "NodeResource",
+          "id": "resource-small-business",
+          "title": "Starting a Business: Your Financial Checklist",
+          "path": "/resources/starting-a-business-financial-checklist",
+          "body": {
+            "processed": "<p>Launching a new business is exciting, but getting your financial foundation right from the start will save you headaches, money, and potential legal problems down the road. Here's the essential financial checklist every new business owner should follow.</p><h2>1. Choose the Right Business Entity</h2><p>Your choice of entity -- sole proprietorship, LLC, S-Corporation, C-Corporation, or partnership -- has significant implications for taxes, liability protection, and how you pay yourself. Consult with a CPA before making this decision, as changing your entity later can be costly and complex.</p><h2>2. Get an EIN</h2><p>Apply for an Employer Identification Number (EIN) from the IRS. This is your business's federal tax ID, required for opening a bank account, hiring employees, and filing tax returns. It's free and can be obtained instantly online.</p><h2>3. Separate Personal and Business Finances</h2><p>Open a dedicated business checking account and credit card. Never comingle personal and business funds. This is essential for accurate bookkeeping, tax compliance, and maintaining your liability protection.</p><h2>4. Set Up Accounting Software</h2><p>Choose a cloud-based accounting platform (QuickBooks Online, Xero, or FreshBooks) and set it up correctly from day one. Connect your bank feeds, establish your chart of accounts, and learn how to categorize transactions.</p><h2>5. Understand Your Tax Obligations</h2><p>As a business owner, you're responsible for:</p><ul><li>Quarterly estimated tax payments (federal and state)</li><li>Self-employment tax (15.3% on net earnings)</li><li>Sales tax collection and remittance (if applicable)</li><li>Payroll taxes (if you have employees)</li><li>Annual business tax returns</li></ul><h2>6. Keep Impeccable Records</h2><p>Save all receipts and financial documents. The IRS can audit your business returns for three to six years after filing. Maintain organized records of income, expenses, mileage, home office use, and any other deductible business costs.</p><h2>7. Build an Emergency Fund</h2><p>Set aside three to six months of operating expenses in a separate savings account. Cash flow challenges are the number one reason small businesses fail. Having a financial cushion gives you the runway to weather slow periods.</p>",
+            "summary": "Launching a new business is exciting, but getting your financial foundation right from the start will save you headaches, money, and potential legal problems down the road. Here's the essential financ"
+          },
+          "image": {
+            "url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&q=80",
+            "alt": "Entrepreneur reviewing business financial documents",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          },
+          "summary": {
+            "processed": "<p>The essential financial steps every new business owner must take, from choosing an entity to setting up accounting and understanding tax obligations.</p>",
+            "summary": "The essential financial steps every new business owner must take, from choosing an entity to setting up accounting and understanding tax obligations."
+          },
+          "resourceTopic": [
+            {
+              "id": "Small Business",
+              "name": "Small Business"
+            }
+          ],
+          "authorName": "William Harrison, CPA",
+          "publishedDate": {
+            "timestamp": 1760936400
+          },
+          "created": {
+            "timestamp": 1759913600
+          }
+        },
+        {
+          "__typename": "NodeResource",
+          "id": "resource-retirement",
+          "title": "Retirement Planning at Every Age: A Decade-by-Decade Guide",
+          "path": "/resources/retirement-planning-at-every-age",
+          "body": {
+            "processed": "<p>Retirement planning is a lifelong process, not a one-time event. The strategies that make the most sense for you depend heavily on where you are in life. Here's what to focus on in each decade.</p><h2>Your 20s: Start Early, Start Small</h2><ul><li>Enroll in your employer's 401(k) and contribute at least enough to get the full company match (that's free money)</li><li>Open a Roth IRA for tax-free growth -- you'll thank yourself decades from now</li><li>Build an emergency fund of 3-6 months of expenses before investing beyond retirement accounts</li><li>Avoid high-interest debt; if you have student loans, create a repayment strategy</li></ul><h2>Your 30s: Build Momentum</h2><ul><li>Increase your retirement contributions each time you get a raise</li><li>Diversify your investments across domestic and international stocks, bonds, and real estate</li><li>Purchase adequate life and disability insurance if you have a family</li><li>Begin saving for your children's education (529 plans offer tax advantages)</li></ul><h2>Your 40s: Maximize and Protect</h2><ul><li>Aim to have 3x your annual salary saved for retirement by age 40</li><li>Take advantage of catch-up contribution limits if you're behind</li><li>Review and update your estate plan (will, powers of attorney, beneficiary designations)</li><li>Pay off high-interest debt and avoid lifestyle inflation</li></ul><h2>Your 50s: Catch-Up and Refine</h2><ul><li>Make catch-up contributions to 401(k) ($7,500 additional) and IRA ($1,000 additional)</li><li>Start modeling your retirement income needs and Social Security benefits</li><li>Consider long-term care insurance</li><li>Begin planning for healthcare costs in retirement (consider HSA contributions)</li></ul><h2>Your 60s and Beyond: Transition and Distribute</h2><ul><li>Develop a detailed retirement income plan and withdrawal strategy</li><li>Decide when to claim Social Security (delaying to age 70 maximizes benefits)</li><li>Plan for Required Minimum Distributions beginning at age 73</li><li>Review your investment allocation for an appropriate mix of growth and income</li><li>Update your estate plan and beneficiary designations</li></ul>",
+            "summary": "Retirement planning is a lifelong process, not a one-time event. The strategies that make the most sense for you depend heavily on where you are in life. Here's what to focus on in each decade.Your 20"
+          },
+          "image": {
+            "url": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=800&q=80",
+            "alt": "Couple reviewing retirement planning documents together",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          },
+          "summary": {
+            "processed": "<p>A practical guide to retirement planning priorities in your 20s, 30s, 40s, 50s, and beyond -- no matter where you're starting.</p>",
+            "summary": "A practical guide to retirement planning priorities in your 20s, 30s, 40s, 50s, and beyond -- no matter where you're starting."
+          },
+          "resourceTopic": [
+            {
+              "id": "Retirement",
+              "name": "Retirement"
+            },
+            {
+              "id": "Personal Finance",
+              "name": "Personal Finance"
+            }
+          ],
+          "authorName": "Elena Ramirez, CPA",
+          "publishedDate": {
+            "timestamp": 1764568800
+          },
+          "created": {
+            "timestamp": 1759827200
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "data": {
+    "nodeServices": {
+      "__typename": "NodeServiceConnection",
+      "nodes": [
+        {
+          "__typename": "NodeService",
+          "id": "service-tax-individual",
+          "title": "Individual Tax Preparation",
+          "path": "/services/individual-tax-preparation",
+          "body": {
+            "processed": "<p>Tax preparation is about more than filling out forms. Our CPAs take a comprehensive approach to your individual tax return, ensuring you take advantage of every deduction and credit available to you while maintaining full compliance with federal and state tax laws.</p><h2>What We Handle</h2><ul><li>Federal and state income tax returns</li><li>Investment income and capital gains reporting</li><li>Rental property income and expenses</li><li>Self-employment and freelance income (Schedule C)</li><li>Stock options and equity compensation</li><li>Foreign income and expat tax returns</li><li>Multi-state tax filings</li><li>IRS audit representation and correspondence</li></ul><h2>Our Process</h2><p>We make tax preparation as painless as possible:</p><ul><li><strong>Organize:</strong> We provide a personalized checklist of documents you'll need, based on your specific situation</li><li><strong>Review:</strong> Your CPA reviews your complete financial picture, not just this year's documents</li><li><strong>Optimize:</strong> We identify opportunities for tax savings, including retirement contributions, charitable strategies, and timing of income and deductions</li><li><strong>File:</strong> We prepare and e-file your return, ensuring accuracy and maximizing your refund or minimizing your liability</li><li><strong>Plan:</strong> We provide year-round tax planning recommendations so you're never surprised at tax time</li></ul><h2>Year-Round Support</h2><p>Your relationship with us doesn't end on April 15. We're available year-round for tax questions, estimated payment calculations, and proactive planning conversations.</p>",
+            "summary": "Tax preparation is about more than filling out forms. Our CPAs take a comprehensive approach to your individual tax return, ensuring you take advantage of every deduction and credit available to you w"
+          },
+          "image": {
+            "url": "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=800&q=80",
+            "alt": "Tax documents and calculator on a desk during tax preparation",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          },
+          "summary": {
+            "processed": "<p>Comprehensive individual tax preparation with proactive planning to minimize your tax liability and maximize your refund.</p>",
+            "summary": "Comprehensive individual tax preparation with proactive planning to minimize your tax liability and maximize your refund."
+          },
+          "clientType": "Individuals and Families",
+          "serviceCategory": [
+            {
+              "id": "Tax Preparation",
+              "name": "Tax Preparation"
+            }
+          ],
+          "created": {
+            "timestamp": 1760000000
+          }
+        },
+        {
+          "__typename": "NodeService",
+          "id": "service-business-tax",
+          "title": "Business Tax & Advisory",
+          "path": "/services/business-tax-and-advisory",
+          "body": {
+            "processed": "<p>Running a business is demanding enough without worrying about tax compliance and financial strategy. Our business advisory team serves as your outsourced CFO, providing the tax planning, compliance, and strategic guidance you need to grow profitably and confidently.</p><h2>Business Tax Services</h2><ul><li>Corporate tax returns (C-Corp, S-Corp, Partnership, LLC)</li><li>Quarterly estimated tax calculations and filings</li><li>Sales tax compliance and nexus analysis</li><li>Payroll tax preparation and compliance</li><li>Business entity selection and restructuring</li><li>Tax credits (R&D credit, hiring credits, energy credits)</li></ul><h2>Advisory & Consulting</h2><ul><li>Financial statement preparation and analysis</li><li>Cash flow forecasting and management</li><li>Budgeting and profitability analysis</li><li>Business valuation</li><li>Mergers, acquisitions, and exit planning</li><li>Succession planning for family businesses</li></ul><h2>Industries We Serve</h2><p>We have deep expertise in several industries, including medical and dental practices, real estate investment, construction, restaurants and hospitality, professional services firms, and technology startups. This specialized knowledge allows us to provide industry-specific insights and identify tax-saving opportunities unique to your field.</p>",
+            "summary": "Running a business is demanding enough without worrying about tax compliance and financial strategy. Our business advisory team serves as your outsourced CFO, providing the tax planning, compliance, a"
+          },
+          "image": {
+            "url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&q=80",
+            "alt": "Business financial analysis with charts and laptop",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          },
+          "summary": {
+            "processed": "<p>Strategic tax planning, compliance, and financial advisory services to help your business grow profitably.</p>",
+            "summary": "Strategic tax planning, compliance, and financial advisory services to help your business grow profitably."
+          },
+          "clientType": "Small to Mid-Size Businesses",
+          "serviceCategory": [
+            {
+              "id": "Tax Preparation",
+              "name": "Tax Preparation"
+            },
+            {
+              "id": "Business Advisory",
+              "name": "Business Advisory"
+            },
+            {
+              "id": "Consulting",
+              "name": "Consulting"
+            }
+          ],
+          "created": {
+            "timestamp": 1759913600
+          }
+        },
+        {
+          "__typename": "NodeService",
+          "id": "service-bookkeeping",
+          "title": "Bookkeeping & Payroll Services",
+          "path": "/services/bookkeeping-and-payroll",
+          "body": {
+            "processed": "<p>Accurate, up-to-date financial records are the foundation of good business decisions. Our bookkeeping and payroll team takes this essential but time-consuming work off your plate, so you can focus on running your business.</p><h2>Bookkeeping Services</h2><ul><li>Monthly reconciliation of all bank and credit card accounts</li><li>Accounts payable and accounts receivable management</li><li>Financial statement preparation (income statement, balance sheet, cash flow)</li><li>Chart of accounts setup and optimization</li><li>QuickBooks, Xero, and FreshBooks setup, training, and support</li><li>1099 preparation and filing</li></ul><h2>Payroll Services</h2><ul><li>Payroll processing (weekly, bi-weekly, semi-monthly, or monthly)</li><li>Direct deposit setup and management</li><li>Federal, state, and local payroll tax filings</li><li>W-2 and 1099 preparation and distribution</li><li>Workers' compensation reporting</li><li>New hire reporting and onboarding paperwork</li></ul><h2>Technology-Forward Approach</h2><p>We leverage cloud-based accounting platforms to give you real-time access to your financial data from anywhere. Our team integrates with the tools you already use, including your point-of-sale system, e-commerce platform, and banking feeds, creating a seamless, efficient workflow.</p>",
+            "summary": "Accurate, up-to-date financial records are the foundation of good business decisions. Our bookkeeping and payroll team takes this essential but time-consuming work off your plate, so you can focus on "
+          },
+          "image": {
+            "url": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80",
+            "alt": "Professional reviewing financial ledgers and bookkeeping records",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          },
+          "summary": {
+            "processed": "<p>Full-service bookkeeping and payroll solutions that keep your finances organized and your team paid on time.</p>",
+            "summary": "Full-service bookkeeping and payroll solutions that keep your finances organized and your team paid on time."
+          },
+          "clientType": "Small Businesses and Startups",
+          "serviceCategory": [
+            {
+              "id": "Bookkeeping",
+              "name": "Bookkeeping"
+            },
+            {
+              "id": "Payroll Services",
+              "name": "Payroll Services"
+            }
+          ],
+          "created": {
+            "timestamp": 1759827200
+          }
+        }
+      ]
+    }
+  }
+}

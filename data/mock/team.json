@@ -1,0 +1,195 @@
+{
+  "data": {
+    "nodeTeamMembers": {
+      "__typename": "NodeTeamMemberConnection",
+      "nodes": [
+        {
+          "__typename": "NodeTeamMember",
+          "id": "team-harrison",
+          "title": "William Harrison, CPA",
+          "path": "/team/william-harrison-cpa",
+          "body": {
+            "processed": "<p>William Harrison co-founded Ledger & Associates in 1995 with a vision of building an accounting firm that treats every client with the same level of care and expertise, regardless of the size of their business or the complexity of their return. As Managing Partner, he sets the firm's strategic direction while maintaining an active client practice focused on business advisory and tax planning for closely held businesses.</p><p>With over 35 years of experience, William has guided hundreds of business owners through critical financial decisions, from startup financing to succession planning and business sales. He is known for his ability to translate complex tax and financial concepts into plain language, empowering his clients to make informed decisions with confidence.</p><p>William is active in the local business community, serving on the boards of the Chamber of Commerce and the Small Business Development Center. He is a frequent speaker on tax planning and business strategy at industry events.</p>",
+            "summary": "William Harrison co-founded Ledger & Associates in 1995 with a vision of building an accounting firm that treats every client with the same level of care and expertise, regardless of the size of their"
+          },
+          "image": {
+            "url": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=800&q=80",
+            "alt": "William Harrison, Managing Partner, professional portrait",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          },
+          "credentials": "CPA, CGMA",
+          "jobTitle": "Managing Partner",
+          "specializations": [
+            "Business Tax Strategy",
+            "Succession Planning",
+            "Closely Held Businesses",
+            "Mergers & Acquisitions"
+          ],
+          "education": {
+            "processed": "<p>Master of Accountancy, University of Virginia<br>Bachelor of Science in Accounting, Wake Forest University</p>",
+            "summary": "Master of Accountancy, University of VirginiaBachelor of Science in Accounting, Wake Forest University"
+          },
+          "professionalMemberships": [
+            "American Institute of CPAs (AICPA)",
+            "State Society of CPAs",
+            "National Association of Tax Professionals"
+          ],
+          "teamRole": [
+            {
+              "id": "Managing Partner",
+              "name": "Managing Partner"
+            }
+          ],
+          "created": {
+            "timestamp": 1760000000
+          }
+        },
+        {
+          "__typename": "NodeTeamMember",
+          "id": "team-ramirez",
+          "title": "Elena Ramirez, CPA, EA",
+          "path": "/team/elena-ramirez-cpa",
+          "body": {
+            "processed": "<p>Elena Ramirez is a Partner at Ledger & Associates and the firm's individual tax practice leader. With over 20 years of experience in tax preparation and planning, she specializes in complex individual returns, including those involving investment portfolios, real estate holdings, stock compensation, and multi-state filings.</p><p>Elena is an Enrolled Agent, authorized to represent taxpayers before the Internal Revenue Service. She has successfully resolved hundreds of IRS audits, notices, and collections matters, earning a reputation for her thoroughness and her calm, reassuring approach to what can be a stressful process.</p><p>She is passionate about financial literacy and volunteers her time leading free tax preparation workshops for underserved communities through the VITA (Volunteer Income Tax Assistance) program.</p>",
+            "summary": "Elena Ramirez is a Partner at Ledger & Associates and the firm's individual tax practice leader. With over 20 years of experience in tax preparation and planning, she specializes in complex individual"
+          },
+          "image": {
+            "url": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=800&q=80",
+            "alt": "Elena Ramirez, Partner, professional portrait",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          },
+          "credentials": "CPA, EA",
+          "jobTitle": "Partner, Individual Tax Practice Leader",
+          "specializations": [
+            "Individual Tax Planning",
+            "IRS Representation",
+            "Real Estate Taxation",
+            "Stock Compensation & Equity"
+          ],
+          "education": {
+            "processed": "<p>Master of Science in Taxation, Golden Gate University<br>Bachelor of Science in Accounting, Florida State University<br>Enrolled Agent (IRS)</p>",
+            "summary": "Master of Science in Taxation, Golden Gate UniversityBachelor of Science in Accounting, Florida State UniversityEnrolled Agent (IRS)"
+          },
+          "professionalMemberships": [
+            "American Institute of CPAs (AICPA)",
+            "National Association of Enrolled Agents (NAEA)",
+            "State Society of CPAs"
+          ],
+          "teamRole": [
+            {
+              "id": "Partner",
+              "name": "Partner"
+            }
+          ],
+          "created": {
+            "timestamp": 1759913600
+          }
+        },
+        {
+          "__typename": "NodeTeamMember",
+          "id": "team-chang",
+          "title": "David Chang, CPA, CFE",
+          "path": "/team/david-chang-cpa",
+          "body": {
+            "processed": "<p>David Chang is a Senior CPA at Ledger & Associates with specialized expertise in audit, assurance, and forensic accounting. A Certified Fraud Examiner, he brings a meticulous analytical eye to every engagement, helping businesses identify financial risks, strengthen internal controls, and maintain regulatory compliance.</p><p>David leads the firm's audit and assurance practice, serving nonprofit organizations, employee benefit plans, and government-funded entities that require independent audits. He is also the go-to advisor for clients navigating complex regulatory requirements, including Sarbanes-Oxley compliance and nonprofit reporting standards.</p><p>Before joining Ledger & Associates, David spent seven years at a Big Four accounting firm, where he audited publicly traded companies in the technology and financial services sectors. He brings that institutional rigor to his work with the firm's clients.</p>",
+            "summary": "David Chang is a Senior CPA at Ledger & Associates with specialized expertise in audit, assurance, and forensic accounting. A Certified Fraud Examiner, he brings a meticulous analytical eye to every e"
+          },
+          "image": {
+            "url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&q=80",
+            "alt": "David Chang, Senior CPA, professional portrait",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          },
+          "credentials": "CPA, CFE",
+          "jobTitle": "Senior CPA, Audit & Assurance Leader",
+          "specializations": [
+            "Audit & Assurance",
+            "Forensic Accounting",
+            "Nonprofit Accounting",
+            "Internal Controls"
+          ],
+          "education": {
+            "processed": "<p>Master of Business Administration (Finance), NYU Stern School of Business<br>Bachelor of Science in Accounting, University of Illinois at Urbana-Champaign<br>Certified Fraud Examiner (CFE)</p>",
+            "summary": "Master of Business Administration (Finance), NYU Stern School of BusinessBachelor of Science in Accounting, University of Illinois at Urbana-ChampaignCertified Fraud Examiner (CFE)"
+          },
+          "professionalMemberships": [
+            "American Institute of CPAs (AICPA)",
+            "Association of Certified Fraud Examiners (ACFE)",
+            "Institute of Internal Auditors (IIA)"
+          ],
+          "teamRole": [
+            {
+              "id": "Senior CPA",
+              "name": "Senior CPA"
+            }
+          ],
+          "created": {
+            "timestamp": 1759827200
+          }
+        }
+      ]
+    }
+  }
+}
