@@ -83,9 +83,9 @@ export const GET_HOMEPAGE_DATA = gql`
         heroTitle
         heroSubtitle
         heroDescription { processed }
-        heroImage { url alt width height variations(styles: [LARGE, MEDIUM, THUMBNAIL]) { name url width height } }
-        statsItems { ... on ParagraphStatItem { id number label } }
-        featuredItemsTitle
+        featuresTitle
+        featuresSubtitle
+        featuresItems { ... on ParagraphFeatureItem { id title description { processed } icon } }
         ctaTitle
         ctaDescription { processed }
         ctaPrimary
@@ -140,14 +140,18 @@ export const GET_NODE_BY_PATH = gql`
             heroDescription {
               processed
             }
-            statsItems {
-              ... on ParagraphStatItem {
+            featuresTitle
+            featuresSubtitle
+            featuresItems {
+              ... on ParagraphFeatureItem {
                 id
-                number
-                label
+                title
+                description {
+                  processed
+                }
+                icon
               }
             }
-            featuredItemsTitle
             ctaTitle
             ctaDescription {
               processed
@@ -170,11 +174,8 @@ export const GET_SERVICES = gql`
         path
         created { timestamp }
         ... on NodeService {
-          body { processed }
+          body { processed summary }
           image { url alt width height variations(styles: [LARGE, MEDIUM, THUMBNAIL]) { name url width height } }
-          summary { processed }
-          clientType
-          serviceCategory { ... on TermInterface { id name } }
         }
       }
     }
@@ -190,11 +191,8 @@ export const GET_SERVICE_BY_PATH = gql`
             id
             title
             path
-          body { processed }
-          image { url alt width height variations(styles: [LARGE, MEDIUM, THUMBNAIL]) { name url width height } }
-          summary { processed }
-          clientType
-          serviceCategory { ... on TermInterface { id name } }
+            body { processed summary }
+            image { url alt width height variations(styles: [LARGE, MEDIUM, THUMBNAIL]) { name url width height } }
           }
         }
       }
@@ -211,14 +209,12 @@ export const GET_TEAM_MEMBERS = gql`
         path
         created { timestamp }
         ... on NodeTeamMember {
-          body { processed }
-          image { url alt width height variations(styles: [LARGE, MEDIUM, THUMBNAIL]) { name url width height } }
-          credentials
-          jobTitle
-          specializations
-          education { processed }
-          professionalMemberships
-          teamRole { ... on TermInterface { id name } }
+          body { processed summary }
+          photo { url alt width height variations(styles: [LARGE, MEDIUM, THUMBNAIL]) { name url width height } }
+          certifications
+          email
+          phone
+          position
         }
       }
     }
@@ -234,14 +230,12 @@ export const GET_TEAM_MEMBER_BY_PATH = gql`
             id
             title
             path
-          body { processed }
-          image { url alt width height variations(styles: [LARGE, MEDIUM, THUMBNAIL]) { name url width height } }
-          credentials
-          jobTitle
-          specializations
-          education { processed }
-          professionalMemberships
-          teamRole { ... on TermInterface { id name } }
+            body { processed summary }
+            photo { url alt width height variations(styles: [LARGE, MEDIUM, THUMBNAIL]) { name url width height } }
+            certifications
+            email
+            phone
+            position
           }
         }
       }
@@ -258,12 +252,9 @@ export const GET_RESOURCES = gql`
         path
         created { timestamp }
         ... on NodeResource {
-          body { processed }
+          body { processed summary }
           image { url alt width height variations(styles: [LARGE, MEDIUM, THUMBNAIL]) { name url width height } }
-          summary { processed }
-          resourceTopic { ... on TermInterface { id name } }
-          authorName
-          publishedDate { timestamp }
+          resourceCategory
         }
       }
     }
@@ -279,12 +270,9 @@ export const GET_RESOURCE_BY_PATH = gql`
             id
             title
             path
-          body { processed }
-          image { url alt width height variations(styles: [LARGE, MEDIUM, THUMBNAIL]) { name url width height } }
-          summary { processed }
-          resourceTopic { ... on TermInterface { id name } }
-          authorName
-          publishedDate { timestamp }
+            body { processed summary }
+            image { url alt width height variations(styles: [LARGE, MEDIUM, THUMBNAIL]) { name url width height } }
+            resourceCategory
           }
         }
       }
